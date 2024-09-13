@@ -1,21 +1,11 @@
 [
-    {
-       "image": {
-            "thumbnail": "https://i.pinimg.com/736x/47/3c/7e/473c7e0ab0fd5b787a92553ae1215e32.jpg",
-            "mobile": "https://i.pinimg.com/736x/47/3c/7e/473c7e0ab0fd5b787a92553ae1215e32.jpg",
-            "tablet": "https://i.pinimg.com/736x/47/3c/7e/473c7e0ab0fd5b787a92553ae1215e32.jpg",
-            "desktop": "https://i.pinimg.com/736x/47/3c/7e/473c7e0ab0fd5b787a92553ae1215e32.jpg"
-       },
-       "name": "Size: M & L",
-       "category": "White Dress",
-       "price": 900.00
-    },
+   
     {
         "image": {
-            "thumbnail": "./assets/images/image-creme-brulee-thumbnail.jpg",
-            "mobile": "./assets/images/image-creme-brulee-mobile.jpg",
-            "tablet": "./assets/images/image-creme-brulee-tablet.jpg",
-            "desktop": "./assets/images/image-creme-brulee-desktop.jpg"
+            "thumbnail": "https://i.pinimg.com/736x/ac/83/79/ac837945d8799566e687e906c40568ad.jpg",
+            "mobile": "https://i.pinimg.com/736x/ac/83/79/ac837945d8799566e687e906c40568ad.jpg",
+            "tablet": "https://i.pinimg.com/736x/ac/83/79/ac837945d8799566e687e906c40568ad.jpg",
+            "desktop": "https://i.pinimg.com/736x/ac/83/79/ac837945d8799566e687e906c40568ad.jpg"
         },
         "name": "Size: XS",
         "category": "Kids",
@@ -23,10 +13,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-macaron-thumbnail.jpg",
-            "mobile": "./assets/images/image-macaron-mobile.jpg",
-            "tablet": "./assets/images/image-macaron-tablet.jpg",
-            "desktop": "./assets/images/image-macaron-desktop.jpg"
+            "thumbnail": "https://i.pinimg.com/736x/1c/45/5f/1c455fabbd2d2ba5f2cf05c11c3bf590.jpg",
+            "mobile": "https://i.pinimg.com/736x/1c/45/5f/1c455fabbd2d2ba5f2cf05c11c3bf590.jpg",
+            "tablet": "https://i.pinimg.com/736x/1c/45/5f/1c455fabbd2d2ba5f2cf05c11c3bf590.jpg",
+            "desktop": "https://i.pinimg.com/736x/1c/45/5f/1c455fabbd2d2ba5f2cf05c11c3bf590.jpg"
         },
         "name": "Size: M & L",
         "category": "Women ",
@@ -34,10 +24,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-tiramisu-thumbnail.jpg",
-            "mobile": "./assets/images/image-tiramisu-mobile.jpg",
-            "tablet": "./assets/images/image-tiramisu-tablet.jpg",
-            "desktop": "./assets/images/image-tiramisu-desktop.jpg"
+            "thumbnail": "https://sunika.co.za/wp-content/uploads/2022/04/Stylish_Shweshwe_Shirt_2022-427.png",
+            "mobile": "https://sunika.co.za/wp-content/uploads/2022/04/Stylish_Shweshwe_Shirt_2022-427.png",
+            "tablet": "https://sunika.co.za/wp-content/uploads/2022/04/Stylish_Shweshwe_Shirt_2022-427.png",
+            "desktop": "https://sunika.co.za/wp-content/uploads/2022/04/Stylish_Shweshwe_Shirt_2022-427.png"
         },
         "name": "Size: All sizes",
         "category": "Men",
@@ -46,57 +36,102 @@
 
      {
         "image": {
-            "thumbnail": "./assets/images/image-baklava-thumbnail.jpg",
-            "mobile": "./assets/images/image-baklava-mobile.jpg",
-            "tablet": "./assets/images/image-baklava-tablet.jpg",
-            "desktop": "./assets/images/image-baklava-desktop.jpg"
+            "thumbnail": "https://i.pinimg.com/736x/5e/c7/ba/5ec7ba77b72b672d1060a7998298fdd6.jpg",
+            "mobile": "https://i.pinimg.com/736x/5e/c7/ba/5ec7ba77b72b672d1060a7998298fdd6.jpg",
+            "tablet": "https://i.pinimg.com/736x/5e/c7/ba/5ec7ba77b72b672d1060a7998298fdd6.jpg",
+            "desktop": "https://i.pinimg.com/736x/5e/c7/ba/5ec7ba77b72b672d1060a7998298fdd6.jpg"
         },
-        "name": "Pistachio Baklava",
-        "category": "Baklava",
-        "price": 4.00
+        "name": "Size: S & M",
+        "category": "Kids",
+        "price": 2000.00
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-meringue-thumbnail.jpg",
-            "mobile": "./assets/images/image-meringue-mobile.jpg",
-            "tablet": "./assets/images/image-meringue-tablet.jpg",
-            "desktop": "./assets/images/image-meringue-desktop.jpg"
+            "thumbnail": "https://i.pinimg.com/736x/59/e3/f2/59e3f203408bf4423b34e5d481fa440f.jpg",
+            "mobile": "https://i.pinimg.com/736x/59/e3/f2/59e3f203408bf4423b34e5d481fa440f.jpg",
+            "tablet": "https://i.pinimg.com/736x/59/e3/f2/59e3f203408bf4423b34e5d481fa440f.jpg",
+            "desktop": "https://i.pinimg.com/736x/59/e3/f2/59e3f203408bf4423b34e5d481fa440f.jpg"
         },
-        "name": "Lemon Meringue Pie",
-        "category": "Pie",
-        "price": 5.00
+        "name": "Size: M & L",
+        "category": "Women ",
+        "price":5000.00
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-cake-thumbnail.jpg",
-            "mobile": "./assets/images/image-cake-mobile.jpg",
-            "tablet": "./assets/images/image-cake-tablet.jpg",
-            "desktop": "./assets/images/image-cake-desktop.jpg"
+            "thumbnail": "https://zulubeads.com/cdn/shop/products/image_c868e9e2-87ac-449f-89ca-c9351ae0d6a5_600x.jpg?v=1680342909",
+            "mobile": "https://zulubeads.com/cdn/shop/products/image_c868e9e2-87ac-449f-89ca-c9351ae0d6a5_600x.jpg?v=1680342909",
+            "tablet": "https://zulubeads.com/cdn/shop/products/image_c868e9e2-87ac-449f-89ca-c9351ae0d6a5_600x.jpg?v=1680342909",
+            "desktop": "https://zulubeads.com/cdn/shop/products/image_c868e9e2-87ac-449f-89ca-c9351ae0d6a5_600x.jpg?v=1680342909"
         },
-        "name": "Red Velvet Cake",
-        "category": "Cake",
-        "price": 4.50
+        "name": "Size: All sizes",
+        "category": "Accesories",
+        "price": 900.00
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-brownie-thumbnail.jpg",
-            "mobile": "./assets/images/image-brownie-mobile.jpg",
-            "tablet": "./assets/images/image-brownie-tablet.jpg",
-            "desktop": "./assets/images/image-brownie-desktop.jpg"
+            "thumbnail": "https://zulubeads.com/cdn/shop/products/image_08f53179-292a-4700-b1b0-8fe6118cdc7a_2048x.heic?v=1674303279",
+            "mobile": "https://zulubeads.com/cdn/shop/products/image_08f53179-292a-4700-b1b0-8fe6118cdc7a_2048x.heic?v=1674303279",
+            "tablet": "https://zulubeads.com/cdn/shop/products/image_08f53179-292a-4700-b1b0-8fe6118cdc7a_2048x.heic?v=1674303279",
+            "desktop": "https://zulubeads.com/cdn/shop/products/image_08f53179-292a-4700-b1b0-8fe6118cdc7a_2048x.heic?v=1674303279"
         },
-        "name": "Salted Caramel Brownie",
-        "category": "Brownie",
-        "price": 4.50
+        "name": " Size: All sizes",
+        "category": "Accesories",
+        "price": 1500.00
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-panna-cotta-thumbnail.jpg",
-            "mobile": "./assets/images/image-panna-cotta-mobile.jpg",
-            "tablet": "./assets/images/image-panna-cotta-tablet.jpg",
-            "desktop": "./assets/images/image-panna-cotta-desktop.jpg"
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUqd5UviK-exhwNPTgEO94jHeE2rveg7t1iy2dd4XY_mgWQhh15ZmT7enncq6v-8W-Kg&usqp=CAU",
+            "mobile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUqd5UviK-exhwNPTgEO94jHeE2rveg7t1iy2dd4XY_mgWQhh15ZmT7enncq6v-8W-Kg&usqp=CAU",
+            "tablet": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUqd5UviK-exhwNPTgEO94jHeE2rveg7t1iy2dd4XY_mgWQhh15ZmT7enncq6v-8W-Kg&usqp=CAU",
+            "desktop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUqd5UviK-exhwNPTgEO94jHeE2rveg7t1iy2dd4XY_mgWQhh15ZmT7enncq6v-8W-Kg&usqp=CAU"
         },
-        "name": "Vanilla Panna Cotta",
-        "category": "Panna Cotta",
-        "price": 6.50
+        "name": " Sizes: All sizes",
+        "category": "Men",
+        "price": 3600.00
+     },
+     {
+        "image": {
+            "thumbnail": "https://www.uyinqabadesigns.co.za/cdn/shop/files/19F8757C-57C6-4BF7-B905-5E880EADE9FE.jpg?v=1692216512&width=3024",
+            "mobile": "https://www.uyinqabadesigns.co.za/cdn/shop/files/19F8757C-57C6-4BF7-B905-5E880EADE9FE.jpg?v=1692216512&width=3024",
+            "tablet": "https://www.uyinqabadesigns.co.za/cdn/shop/files/19F8757C-57C6-4BF7-B905-5E880EADE9FE.jpg?v=1692216512&width=3024",
+            "desktop": "https://www.uyinqabadesigns.co.za/cdn/shop/files/19F8757C-57C6-4BF7-B905-5E880EADE9FE.jpg?v=1692216512&width=3024"
+        },
+        "name": " Sizes: All sizes",
+        "category": "Women",
+        "price": 4700.00
+     },
+     {
+        "image": {
+            "thumbnail": "https://i.pinimg.com/736x/33/41/f8/3341f8aca4b6ea050ecae24892e1efa9.jpg",
+            "mobile": "https://i.pinimg.com/736x/33/41/f8/3341f8aca4b6ea050ecae24892e1efa9.jpg",
+            "tablet": "https://i.pinimg.com/736x/33/41/f8/3341f8aca4b6ea050ecae24892e1efa9.jpg",
+            "desktop": "https://i.pinimg.com/736x/33/41/f8/3341f8aca4b6ea050ecae24892e1efa9.jpg"
+        },
+        "name": " Sizes: All sizes",
+        "category": "Men",
+        "price": 3500.00
+     },
+     {
+        "image": {
+            "thumbnail": "https://i.pinimg.com/736x/12/28/15/1228156aceca5484d0102d2effad1422.jpg",
+            "mobile": "https://i.pinimg.com/736x/12/28/15/1228156aceca5484d0102d2effad1422.jpg",
+            "tablet": "https://i.pinimg.com/736x/12/28/15/1228156aceca5484d0102d2effad1422.jpg",
+            "desktop": "https://i.pinimg.com/736x/12/28/15/1228156aceca5484d0102d2effad1422.jpg"
+        },
+        "name": " Sizes: XS & S",
+        "category": "Kids",
+        "price": 2000.00
+     },
+     {
+        "image": {
+            "thumbnail": "https://zz.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/24/5243/1.jpg?3827",
+            "mobile": "https://zz.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/24/5243/1.jpg?3827",
+            "tablet": "https://zz.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/24/5243/1.jpg?3827",
+            "desktop": "https://zz.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/24/5243/1.jpg?3827"
+        },
+        "name": " Sizes: S & M",
+        "category": "Women",
+        "price": 18000.00
      }
+    
 ]
